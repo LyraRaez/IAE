@@ -1,0 +1,17 @@
+#Reseaux_S li{
+	display:inline;
+	float:right;
+	padding : 0 0.5em;
+}
+
+#Logo{
+	margin-left:8%;
+	margin-top:2%;
+}
+
+#Menu_H li{
+	display:inline;
+	float:right;
+	padding : 0 0.5em;
+	margin-auto;
+}

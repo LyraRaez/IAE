@@ -1,0 +1,67 @@
+/* Sur les écrans, quand la largeur de la fenêtre fait au maximum 1280px */
+@media screen and (max-width: 800px)
+{
+	
+	/* MOT PRESIDENT */
+	#Logo_Menu{
+		width:100;
+	}
+	#MotPres{
+		padding:0px;
+	}
+	#President{
+		width:100%;
+		float:center;
+	}
+	#Resp{
+		display:none;
+	}
+	#MessagePresident {
+		margin-left:0%;   
+		padding:30px;
+	}
+	#PdpPresident{
+		width:100px;
+	}
+	#SeparateurP{
+		display:none;
+	}
+	
+	/* SPONSORS */
+	
+	#LogoSponsors{
+		display:inline;
+		position:inline;
+	}
+	
+	
+	
+	
+}
+
+@media screen and (min-width: 800px)
+{
+	#MotPres{
+	height: 320px;
+	padding:0px;
+	}
+	#MessagePresident {
+    margin-left:30%;   
+	padding:30px;
+	}
+	
+	#Logo_Menu{
+		width:150;
+	}
+}
+
+/* Sur tous types d'écran, quand la largeur de la fenêtre est comprise entre 1024px et 1280px */
+@media all and (min-width: 1024px) and (max-width: 1280px)
+
+/* Sur les téléviseurs */
+@media tv
+
+/* Sur tous types d'écrans orientés verticalement */
+@media all and (orientation: portrait)
+
+

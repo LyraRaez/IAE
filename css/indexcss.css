@@ -1,0 +1,181 @@
+#President{
+	float:left;
+}
+
+#MessagePresident {
+	padding:30px;
+}
+
+#MotPres{
+	font-family: 'Roboto Slab', serif;
+}
+
+#Message{
+	font-size: 16px;
+	padding-left:50px;
+}
+
+#PremG{
+	float:left;
+}
+
+#Adherer, #Sponsors p, #Actualites p, #Connexion{
+	font-family: 'Roboto Slab', serif;
+	font-size: 16px;
+}
+
+#Actualites{
+	font-family: 'Roboto Slab', serif;
+}
+
+#PqAdherer, #ActualitesTitre, #Sponsors h1, #Connexion h3{
+	font-family: 'Bitter', serif;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#Galerie{
+	font-family: 'Roboto Slab', serif;
+	font-size: 22px;
+	background-image:url(images/FdGalerie.jpg);
+	
+}
+
+#Adherer a, #Sponsors a{
+	color:#326298;
+}
+
+#Footer{
+	font-family: 'Roboto Slab', serif;
+}
+
+
+#team-carousel a{
+	color:#203D60;
+}
+
+#Bas{
+	height:450px;
+	font-family: 'Roboto Slab', serif;
+}
+
+#ChangerMotPres{display:inline; width:100%; height:500px;}
+#NomFonction{width:40%; float:left; position:relative; padding:30px;}
+#Mot{width:40%; float:left; position:relative; padding:30px;}
+
+
+#ArticleGauche
+{
+	font-family: 'Roboto Slab', serif;
+    float:left;
+    width:500;
+	margin-left:20;
+}
+#ArticleDroit
+{
+	font-family: 'Roboto Slab', serif;
+    margin-left:640;
+	width:500;
+}
+
+#ArticleDroit h2 , #ArticleGauche h2{
+	font-family: 'Bitter', serif;
+}
+
+#ArticleDroit p, #ArticleGauche p{
+	font-size:15;
+}
+
+#Pages{
+	width:500;
+	margin-left:405;
+	float:left;
+	font-family: 'Roboto Slab', serif;
+}
+
+#OffreGauche
+{
+	font-family: 'Roboto Slab', serif;
+    float:left;
+    width:400;
+}
+#OffreDroit
+{
+	font-family: 'Roboto Slab', serif;
+	float:right;
+    width:300;
+}
+#OffreMilieu
+{
+	font-family: 'Roboto Slab', serif;
+    width:400;
+	margin:0 auto;
+}
+
+#MilieuDroiteOffre{
+	display: inline-block; 
+	margin-left:40;
+	width:1100px;
+}
+
+
+/*  PROFIL  */
+
+#InfoPersoProfil{
+	margin-left: 150;
+	border-left: 20px solid #253b5a;
+    background-color: lightgrey;
+	padding-left: 8;
+	padding-top: 15;
+	padding-bottom: 15;
+	font-family: 'Roboto Slab', serif;
+	font-size:16;
+	width:880;
+	height:310;
+}
+
+
+#NomPrenomProfil{ padding-top:5; }
+
+#TexteProfil{
+	float:left;
+}
+
+#MessageHumeur{
+	float:left;
+	margin-left:50;
+}
+
+#ModifierProfil{
+	width:880;
+	border-left: 20px solid #253b5a;
+	height:57;
+	margin-left: 150;
+	letter-spacing: 20px;
+}
+
+#ValiderProfil{
+	width:880;
+	border-left: 20px solid #253b5a;
+	height:57;
+	margin-left: 150;
+	letter-spacing: 20px;
+	background-color: #38C085;
+	border-top:none; border-bottom:none; border-right:none;
+}
+
+#LienModifProfil { text-decoration:none; }
+
+textarea{ resize: none}
+
+#PDPModif{
+	float:left;
+	width:50%;
+}
+
+#FormInscr{
+		font-family: 'Roboto Slab', serif;
+}
+
+
+

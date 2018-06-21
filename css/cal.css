@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body {
+	background: #C4C4C4;
+}
+
+.table-container {
+	max-width: 1100px;
+	margin: auto;
+	overflow: hidden;
+}
+
+.calendrier {
+	margin: auto;
+	border: none;
+	background: #F6F6F6;
+	font-family: 'Montserrat', sans-serif;
+	padding: 2em;
+	width: 100%;
+}
+
+.calendrier td {
+	border:2px solid #819FF7;
+	max-width:100px;
+	min-width:100px;
+	padding: 4%;
+	padding: 5px;
+}
+
+.image_info{
+	width:10px;
+	height:10px;
+}
+
+p{
+	text-align:center;
+}
